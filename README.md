@@ -104,6 +104,7 @@ Overall, I enjoyed working with Git and GitHub.
 - **Враження:** Інструменти Git та GitHub справді крута та корисна річ, яка спрощують командну розробку, дозволяють зручно відстежувати історію змін та безпечно пропонувати власні нововведення через Pull Request.
 
 
+
 ### Olexandr Kudelya
 
 - Practiced Git basics: staging, commits, branches, and history.
@@ -128,3 +129,9 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 
 - **Що дізнався:** Опанував модель спільної розробки у GitHub через Fork, навчився працювати з кількома remote-репозиторіями (`origin` та `upstream`), синхронізувати локальну гілку з апстрімом та створювати Pull Request.
 - **Враження:** Git та GitHub дають чіткий контроль над кодом та спрощують паралельну роботу в команді без ризику зламати основний проєкт.
+=======
+**Full Name:** Chopyk Lilia Mukolaivna
+### What I Learned
+During this laboratory work, I learned the basics of collaborative development using Git and GitHub. I practiced working with forks, branches, commits, merges, and pull requests. I also learned how to work with `origin` and `upstream` repositories and how to synchronize my branch with the original repository.
+### My Experience with Git and GitHub
+Working with Git and GitHub was a useful and interesting experience. I understood how branches allow developers to work on separate changes without affecting the main branch. I also learned how pull requests are used to share changes and collaborate with other developers. Overall, this laboratory work helped me better understand the Git and GitHub workflow.
