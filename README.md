@@ -102,3 +102,9 @@ Overall, I enjoyed working with Git and GitHub.
 
 - **Що дізнався:** Опанував робочий процес розробки через Git та GitHub: створення форків (fork), роботу з віддаленими репозиторіями (origin/upstream), створення feature-гілок та використання стандарту Conventional Commits.
 - **Враження:** Інструменти Git та GitHub справді крута та корисна річ, яка спрощують командну розробку, дозволяють зручно відстежувати історію змін та безпечно пропонувати власні нововведення через Pull Request.
+
+**Full Name:** Chopyk Lilia Mukolaivna
+### What I Learned
+During this laboratory work, I learned the basics of collaborative development using Git and GitHub. I practiced working with forks, branches, commits, merges, and pull requests. I also learned how to work with `origin` and `upstream` repositories and how to synchronize my branch with the original repository.
+### My Experience with Git and GitHub
+Working with Git and GitHub was a useful and interesting experience. I understood how branches allow developers to work on separate changes without affecting the main branch. I also learned how pull requests are used to share changes and collaborate with other developers. Overall, this laboratory work helped me better understand the Git and GitHub workflow.
