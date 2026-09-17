@@ -174,3 +174,8 @@ Working with Git and GitHub was a useful and interesting experience. I understoo
 * **Що дізнався під час лабораторної роботи:** Вивчив основні команди Git для створення комітів, гілок, роботи з віддаленими репозиторіями, а також механізм вирішення конфліктів мертжу та створення Pull Request.
 * **Враження від роботи з Git та GitHub:** Git — дуже потужний інструмент для контролю версій. Робота через SSH та командний рядок дає повне розуміння того, як влаштована спільна розробка в IT-командах.
 
+## Kovalova Anastasiia
+### What I learn: how to work with Git and GitHub together with other people. I practiced forking a repository, creating a feature branch, making commits, resolving merge conflicts, and creating a pull request. I also completed an online course on Git to learn the basics better.
+### My impressions: аt the beginning it was a bit hard, but now I understand it better and feel more confident using it.
+
+
