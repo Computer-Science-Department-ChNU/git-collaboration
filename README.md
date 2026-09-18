@@ -113,6 +113,15 @@ Overall, I enjoyed working with Git and GitHub.
 - Completed all Linux Survival modules — basic CLI navigation and commands.
 - Set up SSH and practiced the fork → clone → branch → commit → push → PR workflow.
 
+### Roman Tkachuk
+-One Piece is Real
+- Practiced Git basics: staging, commits, branches, and history.
+- Learned to work with multiple repositories (origin vs upstream).
+- Practiced branching, merging, and conflict resolution via Learn Git Branching.
+- Completed all Linux Survival modules — basic CLI navigation and commands.
+- Set up SSH and practiced the fork → clone → branch → commit → push → PR workflow.
+
+
 ## My Impressions
 
 Working hands-on with Git and GitHub made collaborative workflows (branches, merges, conflicts) much clearer than just reading about them.
