@@ -125,6 +125,7 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
 
+
 ### ПІБ: Науменко Олександр Миколайович
 
 - **Що дізнався:** Опанував модель спільної розробки у GitHub через Fork, навчився працювати з кількома remote-репозиторіями (`origin` та `upstream`), синхронізувати локальну гілку з апстрімом та створювати Pull Request.
@@ -193,4 +194,18 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 **Група:** 243а
 - **Що дізнався:** Опанував роботу з SSH-ключами, `.gitignore`, Conventional Commits, а також `fork`, `upstream` та Pull Request.
 - **Враження:** Git та GitHub — дуже зручні інструменти для командної розробки.
+
+
+### Дамір Рожман
+
+### Чого я навчився
+
+Під час цієї лабораторної роботи я навчився користуватися форками, гілками,
+комітами, злиттями та запитами на злиття в GitHub.
+
+### Мій досвід роботи з Git та GitHub
+
+Робота з Git та GitHub була цікавою, оскільки я дізнався,
+як кілька розробників можуть працювати над одним і тим самим проєктом, не
+втручаючись у роботу один одного.
 
