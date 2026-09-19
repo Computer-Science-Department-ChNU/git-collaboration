@@ -5,6 +5,7 @@ Git learning collaboration repository
 ## Корпош Едуард
 
 
+
 **Група:** 243А
 
 
@@ -121,49 +122,9 @@ Working hands-on with Git and GitHub made collaborative workflows (branches, mer
 During this laboratory work, I learned how to work with Git and GitHub in a collaborative development environment. I learned how to create a fork, clone a repository using SSH, work with branches, commits and remotes. I also learned the difference between `origin` and `upstream`, as well as how to merge changes and create a Pull Request.
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 
-## Артем Палатюк
+### ПІБ: Науменко Олександр Миколайович
 
-### Що я дізнався
-
-Під час лабораторних робіт я навчився працювати з Git та GitHub: створювати репозиторії, fork, branch, commit, merge, push, pull та Pull Request. Також навчився використовувати SSH для підключення до GitHub та Markdown для оформлення файлів.
-
-Окрім цього, я вчився працювати з Linux Terminal: навігацією по файловій системі, створенням, копіюванням, переміщенням і видаленням файлів та роботою з основними командами Linux.
-
-### Враження
-
-Робота допомогла мені краще зрозуміти Git, GitHub та Linux і показала, як ці інструменти використовуються під час розробки програмного забезпечення.
-
-
-## Дубковецька Уляна
-**Група:** [, 244б]
-
-### Що я дізналася
-- Різниця між `fork` і `clone`: fork створює копію репозиторію на GitHub, clone — локальну копію на комп'ютері.
-- Призначення `origin` та `upstream`: origin вказує на власний fork, upstream — на оригінальний репозиторій.
-- Створення окремої feature-гілки замість роботи напряму в `main`.
-
-## Каньовський Владислав
-
-**Група:** 244
-
-### Що я дізнався
-- Практика роботи з fork, upstream та створення Pull Request
-- Управління гілками та вирішення конфліктів злиттів
-
-### Враження від роботи з Git та GitHub
-Дуже зручний інструмент для командної розробки, який дозволяє безпечно вносити зміни через окремі гілки.
-
-### Верстяк Анастасія Андріївна
-- **Що дізналась:** Робота з форками, синхронізація через upstream, управління гілками та створення Pull Request.
-- **Враження:** Зручний та надійний інструмент для командної розробки.
-
-
-
-### Havrysh Polina
-- **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
-- **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
-
+- **Що дізнався:** Опанував модель спільної розробки у GitHub через Fork, навчився працювати з кількома remote-репозиторіями (`origin` та `upstream`), синхронізувати локальну гілку з апстрімом та створювати Pull Request.
+- **Враження:** Git та GitHub дають чіткий контроль над кодом та спрощують паралельну роботу в команді без ризику зламати основний проєкт.
