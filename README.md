@@ -1,3 +1,22 @@
+
+## Student
+
+### ПІБ
+
+Пахнюк Олександр Віталійович
+
+### What I learned
+
+During this laboratory work, I learned how to work with Git and GitHub.
+I learned how to create branches, commits, forks and pull requests.
+
+### My experience
+
+Working with Git and GitHub was useful because I learned how
+developers can work together on the same project.
+
+
+
 # git-collaboration
 
 Git learning collaboration repository
