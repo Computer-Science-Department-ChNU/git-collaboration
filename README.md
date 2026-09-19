@@ -121,6 +121,7 @@ Working hands-on with Git and GitHub made collaborative workflows (branches, mer
 During this laboratory work, I learned how to work with Git and GitHub in a collaborative development environment. I learned how to create a fork, clone a repository using SSH, work with branches, commits and remotes. I also learned the difference between `origin` and `upstream`, as well as how to merge changes and create a Pull Request.
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
+<<<<<<< HEAD
 
 
 ## Артем Палатюк
@@ -143,3 +144,15 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 - Різниця між `fork` і `clone`: fork створює копію репозиторію на GitHub, clone — локальну копію на комп'ютері.
 - Призначення `origin` та `upstream`: origin вказує на власний fork, upstream — на оригінальний репозиторій.
 - Створення окремої feature-гілки замість роботи напряму в `main`.
+
+## Каньовський Владислав
+
+**Група:** 244
+
+### Що я дізнався
+- Практика роботи з fork, upstream та створення Pull Request
+- Управління гілками та вирішення конфліктів злиттів
+
+### Враження від роботи з Git та GitHub
+Дуже зручний інструмент для командної розробки, який дозволяє безпечно вносити зміни через окремі гілки.
+
