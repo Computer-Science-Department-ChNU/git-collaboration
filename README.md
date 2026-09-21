@@ -135,6 +135,7 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
+<<<<<<< HEAD
 
 
 
@@ -249,3 +250,9 @@ Working with Git and GitHub was a valuable and engaging experience. Although cer
 ### Враження від роботи з Git та GitHub:
 - Зручний інструмент для командної розробки та відстеження історії змін.
 
+=======
+### Лукащук Олександр Ігорович
+
+- **Що дізнався:** Під час лабораторної роботи я навчився працювати з Git та GitHub, налаштовувати SSH, створювати fork і окремі гілки, працювати з origin та upstream, виконувати merge та створювати Pull Request.
+- **Враження:** Після практичної роботи з гілками, комітами та віддаленими репозиторіями принцип роботи Git і GitHub став набагато зрозумілішим.
+>>>>>>> 2e1f843 (docs: add Oleksandr Lukashchuk collaboration entry)
