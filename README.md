@@ -187,3 +187,10 @@ During this laboratory work, I learned how to use Git and GitHub for collaborati
 ## My experience
 Working with Git and GitHub was interesting. At first, some commands were difficult to understand, but after practicing I understood how branches and repositories work.
 
+
+
+### Студент: Агеєнко Ігор
+**Група:** 243а
+- **Що дізнався:** Опанував роботу з SSH-ключами, `.gitignore`, Conventional Commits, а також `fork`, `upstream` та Pull Request.
+- **Враження:** Git та GitHub — дуже зручні інструменти для командної розробки.
+
