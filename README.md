@@ -137,6 +137,7 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -264,3 +265,8 @@ Working with Git and GitHub was a valuable and engaging experience. Although cer
 ### Мої враження
 Працювати з Git і GitHub було цікаво. Я краще зрозуміла, як працюють гілки та як кілька людей можуть одночасно працювати над одним проєктом.
 >>>>>>> 4f9a4a2 (docs: add student information)
+=======
+
+## Salo Kristina
+I learned how to work with repositories, improved my knowledge about Git
+>>>>>>> 9bf8b5b (Add student details(SK) and feedback to README.md)
