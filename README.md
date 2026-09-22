@@ -1,4 +1,6 @@
-# git-collaboration
+### Артеменко Аліса
+* **Отримані знання:** Під час лабораторної роботи я навчилася налаштовувати SSH-ключі для GitHub, працювати з markdown-розміткою, розгалуженням (branches), а також робити Pull Request та розв'язувати конфлікти злиття.
+* **Враження:** Ну просто неймовірні# git-collaboration
 
 Git learning collaboration repository
 
