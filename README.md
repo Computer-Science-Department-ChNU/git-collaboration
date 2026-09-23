@@ -1,3 +1,23 @@
+
+## Student
+
+### ПІБ
+
+Пахнюк Олександр Віталійович
+
+### What I learned
+
+During this laboratory work, I learned how to work with Git and GitHub.
+I learned how to create branches, commits, forks and pull requests.
+
+### My experience
+
+Working with Git and GitHub was useful because I learned how
+developers can work together on the same project.
+
+
+
+# git-collaboration
 ### Артеменко Аліса
 * **Отримані знання:** Під час лабораторної роботи я навчилася налаштовувати SSH-ключі для GitHub, працювати з markdown-розміткою, розгалуженням (branches), а також робити Pull Request та розв'язувати конфлікти злиття.
 * **Враження:** Ну просто неймовірні# git-collaboration
@@ -138,7 +158,20 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
+## Student: Padurian Vladyslav
 
+### What I learned:
+* Distributed version control and teamwork basics.
+* Repository branching, merging, and collaboration workflows.
+
+### Impressions:
+* Very useful and practical experience with Git and GitHub.
+### Postevka Uliana
+- **What I learned:** Learned how to work with Git.
+- **Impressions:** Complete shock.
+
+## Salo Kristina
+I learned how to work with repositories, improved my knowledge about Git
 ## Kovalova Anastasiia
 ### What I learned
 During this lab, I learned how to work with Git and GitHub together with other people. I practiced forking a repository, creating a feature branch, making commits, resolving merge conflicts, and creating a pull request. I also completed an online course on Git to learn the basics better.
@@ -181,6 +214,18 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 - Практика роботи з fork, upstream та створення Pull Request
 - Управління гілками та вирішення конфліктів злиттів
 
+- # Web Technologies Course
+**Student:** Oleksandra Zhurakovska  
+**Specialty:** Software Engineering  
+**Group:** 243  
+**University:** Yuriy Fedkovych Chernivtsi National University  
+## Favorite Programming Languages & Technologies
+* **Programming Languages:** JavaScript, C++, Python
+* **Frontend Development:** React, HTML5, CSS3
+* **Tools & Technologies:** Git, GitHub, Linux, Figma, Visual Studio Code
+
+
+
 ### Враження від роботи з Git та GitHub
 Дуже зручний інструмент для командної розробки, який дозволяє безпечно вносити зміни через окремі гілки.
 
@@ -188,6 +233,39 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 ### Havrysh Polina
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
+
+## Max Zagrebelnyi
+
+**Group:** 243(1)
+
+### What I learned during the lab work
+- Learned how to configure an SSH connection with GitHub.
+- Mastered working with fork, clone, branch, merge, and pull requests.
+- Got acquainted with Conventional Commits rules and Markdown.
+
+### Impressions of working with Git and GitHub
+Git allows for safe experimentation thanks to branches, while GitHub
+significantly simplifies team collaboration. Most difficulties arose
+with setting up the SSH connection and resolving merge conflicts.
+
+
+### Козак Володимир
+**Група:** [Ваша група]
+
+**Що я дізнався:**
+* Навчився створювати копії чужих репозиторіїв (fork).
+* Зрозумів, як працювати з віддаленими зв'язками (origin та upstream).
+* Навчився створювати окремі гілки для безпечної роботи над завданням.
+
+**Враження від роботи з Git та GitHub:**
+Спочатку було складно запам'ятати всі команди для термінала, але концепція роботи через Pull Request виявилася дуже зручною для спільної роботи над проєктами.
+
+
+
+### Єленюк Артем Олександрович
+* **Що дізнався під час лабораторної роботи:** Вивчив основні команди Git для створення комітів, гілок, роботи з віддаленими репозиторіями, а також механізм вирішення конфліктів мертжу та створення Pull Request.
+* **Враження від роботи з Git та GitHub:** Git — дуже потужний інструмент для контролю версій. Робота через SSH та командний рядок дає повне розуміння того, як влаштована спільна розробка в IT-командах.
+
 
 ## Бєлов Арсен Павлович
 
@@ -235,3 +313,14 @@ Git та GitHub дозволяють зручно працювати над пр
 проєктами та відстежувати зміни. Особливо корисною є
 можливість створювати окремі гілки та об'єднувати зміни
 через Pull Request.
+
+
+### Решко Мар'яна Андріївна
+
+- Я дізналася майже багато
+
+- Дууже вражена від лабораторної
+
+### Anna Marchuk
+- **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
+- **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
