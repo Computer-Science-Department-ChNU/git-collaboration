@@ -24,6 +24,18 @@ developers can work together on the same project.
 
 Git learning collaboration repository
 
+## Vlad Ursalov
+
+### What I Learned
+
+While working on the lab assignment, I learned how to use Git and GitHub, as well as how to create forks, branches, commits, and pull requests.
+I also learned how to work with remote repositories such as `origin` and `upstream`.
+
+### Impressions of Working with Git and GitHub
+
+Git and GitHub make it easy to work on software projects and track changes. Particularly useful is the ability to create separate branches and merge changes via pull requests.
+
+
 ## Корпош Едуард
 
 
@@ -158,6 +170,10 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
+### Михайленко Ярослав
+
+ -**Що дізнався:** Опанував ключові механізми спільної розробки у Git: створення власних копій проєктів (fork), налаштування зв'язку з первинним репозиторієм через upstream, розгалуження коду на окремі feature-гілки, а також процедуру створення та перевірки Pull Request.
+-**Враження:** Цікаво
 ## Student: Padurian Vladyslav
 
 ### What I learned:
@@ -233,6 +249,21 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 ### Havrysh Polina
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
+
+## Roman Kalyta
+
+** What I learned:
+- Git branching: difference between 'main' and other branches, why isolating work in a branch matters
+Key commands: 'git checkout -b', 'git push --set-upstream', 'git pull', 'git fetch', 'git push' and so on.
+- Fork vs clone: a fork is own copy on GitHub; clone brings it to your machine locally
+- Origin vs upstream: origin = my fork, upstream = the original repository I forked from
+Linux survival basics: navigating with basic Linux commands
+
+## My general impressions of working with Git and GitHub
+
+- The difficult parts were: create 2 separate SSH keys for studying and for work and how to know from which I am making changes
+- What became more clear after the assignment: every aspect of the lab was a useful experience to use.
+- What would I say to myself at the beginning: check the git status everytime after every commit via git status
 
 ## Max Zagrebelnyi
 
@@ -313,6 +344,9 @@ Git та GitHub дозволяють зручно працювати над пр
 проєктами та відстежувати зміни. Особливо корисною є
 можливість створювати окремі гілки та об'єднувати зміни
 через Pull Request.
+### Водько Марія
+- **Що дізналась:** Я зіткнулася із поняттям "PC". Я дізналася як перемикатися між гілками, як подорожувати по комітах та мерджити конфлікти. Також вивчила багато команд в Лінуксі і тепер мені не так страшно вмикати цю ОС :)
+- **Враження:** Фантастичні
 
 
 ### Решко Мар'яна Андріївна
@@ -324,3 +358,4 @@ Git та GitHub дозволяють зручно працювати над пр
 ### Anna Marchuk
 - **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
 - **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
+
