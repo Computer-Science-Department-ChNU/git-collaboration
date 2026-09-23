@@ -129,9 +129,36 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 
 - **Що дізнався:** Опанував модель спільної розробки у GitHub через Fork, навчився працювати з кількома remote-репозиторіями (`origin` та `upstream`), синхронізувати локальну гілку з апстрімом та створювати Pull Request.
 - **Враження:** Git та GitHub дають чіткий контроль над кодом та спрощують паралельну роботу в команді без ризику зламати основний проєкт.
-=======
+
+
 **Full Name:** Chopyk Lilia Mukolaivna
 ### What I Learned
 During this laboratory work, I learned the basics of collaborative development using Git and GitHub. I practiced working with forks, branches, commits, merges, and pull requests. I also learned how to work with `origin` and `upstream` repositories and how to synchronize my branch with the original repository.
 ### My Experience with Git and GitHub
 Working with Git and GitHub was a useful and interesting experience. I understood how branches allow developers to work on separate changes without affecting the main branch. I also learned how pull requests are used to share changes and collaborate with other developers. Overall, this laboratory work helped me better understand the Git and GitHub workflow.
+
+## Каньовський Владислав
+
+**Група:** 244
+
+### Що я дізнався
+- Практика роботи з fork, upstream та створення Pull Request
+- Управління гілками та вирішення конфліктів злиттів
+
+### Враження від роботи з Git та GitHub
+Дуже зручний інструмент для командної розробки, який дозволяє безпечно вносити зміни через окремі гілки.
+
+
+### Havrysh Polina
+- **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
+- **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
+## Zehria Anna
+
+### Що я дізналася
+
+Під час виконання лабораторної роботи я навчилася працювати з Git та GitHub, створювати fork і клонувати репозиторій, налаштовувати remote-репозиторії origin та upstream, створювати й використовувати feature-гілки, виконувати commit і merge, а також працювати з Pull Request.
+
+### Враження від Git та GitHub
+
+Під час роботи я краще зрозуміла принцип спільної розробки програмного забезпечення. Спочатку Git і GitHub здавалися складними, але після виконання практичних завдань стало зрозуміліше, як працюють гілки, віддалені репозиторії та Pull Request.
+
