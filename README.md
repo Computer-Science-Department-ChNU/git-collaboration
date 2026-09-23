@@ -355,3 +355,13 @@ During this lab, I learned how to work with Git and GitHub together with other p
 - **What I learned:** Git fundamentals (branching, merging, rebase, and resolving conflicts), SSH configuration for GitHub, and the collaborative Fork & Pull Request workflow.
 - **Impressions:** Powerful and structured version control system. Once the commit tree and remote tracking logic click, working via terminal becomes very smooth and intuitive
 
+
+---
+
+## Козак Максим Ігорович
+
+* **Що дізнався під час виконання роботи:**
+  Ознайомився з роботою у командному проекті за допомогою моделі Fork & Pull Request. Навчився налаштовувати зв'язок з оригінальним репозиторієм через `upstream`, синхронізувати локальну гілку з основними змінами проекту та вирішувати merge conflicts.
+
+* **Враження від роботи з Git та GitHub:**
+  Робота з Git та GitHub дає чітке розуміння того, як влаштована реальна командна розробка програмного забезпечення. Інструменти гілкування та Pull Request значно спрощують Code Review та запобігають випадковому пошкодженню основного коду проекту.
