@@ -658,4 +658,8 @@ During this lab, I learned how to work with Git and GitHub together with other p
 main
 
 ### Artem Hrechanychenko
-- I learned how to use **forks**, **branches** and **pull requests** on GitHub
+- I learned how to use **forks**, **branches** and **pull requests** on GitHub.
+
+### Резніченко Анастасія Олександрівна
+### What I learned: Під час виконання лабораторної роботи я навчилася працювати з Git CLI, SSH-ключами, розгалуженням (branches), вирішенням конфліктів злиття та створенням Pull Requests.
+### Impressions:Git та GitHub — це зручні інструменти для командної розробки.
