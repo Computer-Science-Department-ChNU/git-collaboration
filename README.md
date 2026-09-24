@@ -427,6 +427,15 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 ### My Experience with Git and GitHub
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
+
+
+### Demyan Mysiv
+- **What I learnt:** During this lab exercise, I gained an in-depth understanding of the architecture of distributed version control systems. I gained practical experience in creating repository forks, configuring remote connections (in particular, linking `origin` and `upstream`), managing feature branches, and mastered the basic mechanisms of collaborative software development.
+- **My impressions:** At first, the Git ecosystem and the GitHub interface may seem rather complex and daunting due to the need to learn quite a few terminal commands. However, I eventually came to realise the genius of this system. It transforms the chaotic process of code integration into a structured and elegant workflow, making it an indispensable tool for any modern development team.
+
+
+
+
 ### Путінца Владислав
 - **Що дізнався:** Налаштування SSH, створення форків, підключення upstream, синхронізація гілок та відкриття Pull Request.
 - **Враження:** Зручний і потужний інструмент для командної роботи над спільним кодом.
@@ -671,3 +680,4 @@ main
 ### Резніченко Анастасія Олександрівна
 ### What I learned: Під час виконання лабораторної роботи я навчилася працювати з Git CLI, SSH-ключами, розгалуженням (branches), вирішенням конфліктів злиття та створенням Pull Requests.
 ### Impressions:Git та GitHub — це зручні інструменти для командної розробки.
+
