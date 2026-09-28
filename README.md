@@ -696,3 +696,13 @@ main
 ### What I learned: Під час виконання лабораторної роботи я навчилася працювати з Git CLI, SSH-ключами, розгалуженням (branches), вирішенням конфліктів злиття та створенням Pull Requests.
 ### Impressions:Git та GitHub — це зручні інструменти для командної розробки.
 
+## Ostrovsky Lubomire
+
+## What I learned
+During this laboratory work I learned how to work with Git and GitHub,
+create branches, make commits, merge changes and create pull requests.
+
+## My impressions
+Working with Git and GitHub helped me understand how developers
+collaborate on software projects.
+
