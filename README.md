@@ -615,6 +615,10 @@ with setting up the SSH connection and resolving merge conflicts.
 ### Враження від роботи з Git та GitHub:
 - Зручний інструмент для командної розробки та відстеження історії змін.
 
+##  Student: Shyshko Ruslana
+
+* **What I learned:** During the laboratory work, I got familiar with the collaborative development model (Fork + Pull Request), learned how to create and switch branches in Git, configure an additional remote repository (`upstream`), and synchronize it with my working branch.
+* **Impressions of Git and GitHub:** The tool is very powerful and convenient for team development. Although the terminal and commands require attention at first, working with branches and version control significantly simplifies making changes and avoiding code conflicts.
 ### Студент: Агеєнко Ігор
 **Група:** 243а
 - **Що дізнався:** Опанував роботу з SSH-ключами, `.gitignore`, Conventional Commits, а також `fork`, `upstream` та Pull Request.
