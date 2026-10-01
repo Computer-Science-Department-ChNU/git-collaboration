@@ -154,6 +154,10 @@ Overall, I enjoyed working with Git and GitHub.
 - **Що дізнався:** Опанував робочий процес розробки через Git та GitHub: створення форків (fork), роботу з віддаленими репозиторіями (origin/upstream), створення feature-гілок та використання стандарту Conventional Commits.
 - **Враження:** Інструменти Git та GitHub справді крута та корисна річ, яка спрощують командну розробку, дозволяють зручно відстежувати історію змін та безпечно пропонувати власні нововведення через Pull Request.
 
+
+### Veronika Sakhruk
+- I learned how to use forks, branches and pull requests on GitHub!
+
 ### Садченко Олександр
 * **Що дізнався:** Ознайомився з роботою SSH-ключів, налаштуванням Git, створенням гілок, форками та вирішенням конфліктів під час злиття.
 * **Враження:** Дуже корисний досвід роботи з інструментами командної розробки через Git та GitHub.
@@ -538,8 +542,6 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 * **Frontend Development:** React, HTML5, CSS3
 * **Tools & Technologies:** Git, GitHub, Linux, Figma, Visual Studio Code
 
- main
-
 ## Студент: Мостовий Денис
 
 ### Що я дізнався під час виконання лабораторної роботи:
@@ -576,3 +578,4 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 
 ### Враження від роботи з Git та GitHub:
 Робота з Git та GitHub виявилася дуже корисною й цікавою. Спочатку команди здавалися складними, але після практики я побачила, як це спрощує командну роботу та дозволяє безпечно експериментувати в окремих гілках.
+
