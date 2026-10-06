@@ -579,3 +579,13 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 ### Враження від роботи з Git та GitHub:
 Робота з Git та GitHub виявилася дуже корисною й цікавою. Спочатку команди здавалися складними, але після практики я побачила, як це спрощує командну роботу та дозволяє безпечно експериментувати в окремих гілках.
 
+## Ostrovsky Lubomire
+
+## What I learned
+During this laboratory work I learned how to work with Git and GitHub,
+create branches, make commits, merge changes and create pull requests.
+
+## My impressions
+Working with Git and GitHub helped me understand how developers
+collaborate on software projects.
+
