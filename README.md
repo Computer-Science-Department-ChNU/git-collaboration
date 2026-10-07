@@ -277,7 +277,11 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
 
- feature/mykhailyshyna-new
+
+### Недільський Віктор Максимович
+- **Що дізнався:** Я дізнався, що Git - це система контролю версій, яка має змогу еффективно керувати змінами в коді та працювати в команді. Практика охопила як інтерактивне навчання на сервісах GitHowTo, Learn Git Branching тощо, так і безпосередню роботу в терміналі Git Bash. В процесі вдалося розібратися з автентифікацією через SSH-ключі, злиттям гілок, створенням комітів, оновленням коду через 'git pull' тощо.
+- **Враження:** Для мене ця лабораторна робота була дуже цікавим досвідом, а сама робота з Git та GitHub'ом виявилась дуже захопливою, попри всі труднощі на початку.
+
 
 ## Zehria Anna
 
@@ -589,3 +593,4 @@ create branches, make commits, merge changes and create pull requests.
 Working with Git and GitHub helped me understand how developers
 collaborate on software projects.
 
+main
