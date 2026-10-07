@@ -37,10 +37,7 @@ developers can work together on the same project.
 
 # git-collaboration
 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/feature/palatiuk
 ### Артеменко Аліса
 
 - **Отримані знання:** Під час лабораторної роботи я навчилася налаштовувати SSH-ключі для GitHub, працювати з markdown-розміткою, розгалуженням (branches), а також робити Pull Request та розв'язувати конфлікти злиття.
@@ -61,11 +58,8 @@ Git and GitHub make it easy to work on software projects and track changes. Part
 
 ## Корпош Едуард
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> origin/feature/palatiuk
 **Група:** 243А
 
 ### Що я дізнався
@@ -229,8 +223,6 @@ During this laboratory work, I learned how to work with Git and GitHub in a coll
 
 Working with Git and GitHub was interesting and useful. At first, some commands seemed complicated, but after practicing with branches, commits and remote repositories, the workflow became clearer. I especially liked the possibility of working on a separate branch without changing the main branch.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 ## Артем Палатюк
 
@@ -244,9 +236,7 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 
 # Робота допомогла мені краще зрозуміти Git, GitHub та Linux і показала, як ці інструменти використовуються під час розробки програмного забезпечення.
 
-=======
 
->>>>>>> origin/feature/palatiuk
 ### Михайленко Ярослав
 
 -**Що дізнався:** Опанував ключові механізми спільної розробки у Git: створення власних копій проєктів (fork), налаштування зв'язку з первинним репозиторієм через upstream, розгалуження коду на окремі feature-гілки, а також процедуру створення та перевірки Pull Request. -**Враження:** Цікаво
@@ -271,8 +261,6 @@ Working with Git and GitHub was interesting and useful. At first, some commands 
 
 I learned how to work with repositories, improved my knowledge about Git
 
-<<<<<<< HEAD
-=======
 
 
 
@@ -326,7 +314,6 @@ Working with Git and GitHub was a useful and interesting experience. I understoo
 * **Враження від роботи з Git та GitHub:** Git — дуже потужний інструмент для контролю версій. Робота через SSH та командний рядок дає повне розуміння того, як влаштована спільна розробка в IT-командах.
 
 
->>>>>>> origin/feature/palatiuk
 ## Kovalova Anastasiia
 
 ### What I learned
@@ -337,11 +324,8 @@ During this lab, I learned how to work with Git and GitHub together with other p
 
 At the beginning it was a bit hard, but now I understand it better and feel more confident using it.
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> origin/feature/palatiuk
 ### Софія Павлова
 
 Під час цієї лабораторної роботи я навчилася працювати з Git та GitHub. Я дізналася, як створювати fork, клонувати репозиторій, створювати гілки, робити коміти, об'єднувати зміни та створювати Pull Request.
@@ -350,8 +334,6 @@ At the beginning it was a bit hard, but now I understand it better and feel more
 
 Працювати з Git і GitHub було цікаво. Я краще зрозуміла, як працюють гілки та як кілька людей можуть одночасно працювати над одним проєктом.
 
-<<<<<<< HEAD
-=======
 
 ### Fraiuk Oleh
 ## What I learned
@@ -368,7 +350,6 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 
 
 
->>>>>>> origin/feature/palatiuk
 ### Дамір Рожман
 
 ### Чого я навчився
@@ -382,11 +363,8 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 як кілька розробників можуть працювати над одним і тим самим проєктом, не
 втручаючись у роботу один одного.
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> origin/feature/palatiuk
 ## Vladyslav Bych
 
 ### Чого я навчився
@@ -430,15 +408,12 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 - **What I learned:** I learned how to create and configure SSH keys for GitHub, work with local and remote repositories, create commits, and use branches for collaborative development.
 - **Impressions of the workflow:** This laboratory work gave me practical experience with Git and GitHub. At first some tasks seemed difficult, but after completing them I gained a better understanding of version control and teamwork workflows.
 
-<<<<<<< HEAD
 feature/mykhailyshyna-new
-=======
 
 ### Недільський Віктор Максимович
 - **Що дізнався:** Я дізнався, що Git - це система контролю версій, яка має змогу еффективно керувати змінами в коді та працювати в команді. Практика охопила як інтерактивне навчання на сервісах GitHowTo, Learn Git Branching тощо, так і безпосередню роботу в терміналі Git Bash. В процесі вдалося розібратися з автентифікацією через SSH-ключі, злиттям гілок, створенням комітів, оновленням коду через 'git pull' тощо.
 - **Враження:** Для мене ця лабораторна робота була дуже цікавим досвідом, а сама робота з Git та GitHub'ом виявилась дуже захопливою, попри всі труднощі на початку.
 
->>>>>>> main
 
 ## Zehria Anna
 
@@ -561,7 +536,6 @@ Working with Git and GitHub was interesting. At first, some commands were diffic
 - **Що дізнався:** Під час лабораторної роботи я навчився працювати з Git та GitHub, налаштовувати SSH, створювати fork і окремі гілки, працювати з origin та upstream, виконувати merge та створювати Pull Request.
 - **Враження:** Після практичної роботи з гілками, комітами та віддаленими репозиторіями принцип роботи Git і GitHub став набагато зрозумілішим.
 
-<<<<<<< HEAD
 ## Stanislav Fedin
 
 ### Що я дізнався
@@ -577,8 +551,6 @@ Git та GitHub дозволяють зручно працювати над пр
 проєктами та відстежувати зміни. Особливо корисною є
 можливість створювати окремі гілки та об'єднувати зміни
 через Pull Request.
-=======
->>>>>>> origin/feature/palatiuk
 
 ### Trubitskyi Dmytro
 
@@ -847,4 +819,32 @@ create branches, make commits, merge changes and create pull requests.
 Working with Git and GitHub helped me understand how developers
 collaborate on software projects.
 
+## Якубина Олег
+
+### Що я дізнався під час виконання ЛР:
+* Навчився генерувати та підключати SSH-ключі для GitHub.
+* Опанував основні команди Git для роботи з репозиторіями та гілками.
+* Зрозумів різницю між origin, upstream та механізм Pull Request.
+
+### Враження від роботи з Git та GitHub:
+Інструмент дуже зручний для відстеження історії змін і командної розробки.
+
+
+# 💻 Череватенко Вікторія Андріївна 🪄
+
+## 🍒 Що дізналася під час виконання лабораторної роботи
+
+* Як використовувати `git cherry-pick`
+* `git pull = git fetch + git merge` 💚
+* Як працювати з Git та GitHub під час командної розробки
+
+## 🛸 Враження від Git та GitHub
+
+> **Одна з речей, які живуть вічно.**
+>
+> Хоча я не можу сказати напевне, тому що правду ніхто не знає.
+>
+> Але якщо колись інша цивілізація читатиме це, знайте:
+>
+> **сьогодні 2026 рік, і ми можемо працювати в командах та ділитися проєктами завдяки богам Git та GitHub.** 🛸💚
 
