@@ -879,3 +879,16 @@ collaborate on software projects.
 ### Мої враження від роботи з Git та GitHub
 
 Найбільше мені сподобалось, що кожен учасник працює у своїй гілці й не ламає чужу роботу. Найскладнішим моментом було зрозуміти різницю між `origin` та `upstream` і правильно підтягувати зміни з оригінального репозиторію перед створенням Pull Request. Ця робота допомогла мені краще зрозуміти, як команди розробників працюють над одним проєктом, і стане у пригоді в майбутніх проєктах та на практиці.
+---
+
+## Anatolii Chaykovskyi
+
+**Student:** Anatolii Dmytrovych Chaykovskyi
+
+### What I Learned
+
+During this laboratory work, I learned how to use Git and GitHub for collaborative software development. I practiced forking and cloning repositories, creating branches, making commits, synchronizing with an upstream repository, and preparing pull requests.
+
+### My Experience with Git and GitHub
+
+Working with Git and GitHub helped me understand how developers manage changes, maintain project history, and collaborate on shared code. I also learned why it is important to use separate branches and meaningful commit messages.
