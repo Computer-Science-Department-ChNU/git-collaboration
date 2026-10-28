@@ -892,3 +892,14 @@ collaborate on software projects.
 
 Git допомагає відстежувати зміни в коді, а GitHub
 дає змогу спільно працювати над проєктами в команді.
+
+
+## Bohdan Pereyma
+
+### What I learned
+
+During this lab, I learned how to use Git and GitHub for collaborative software development. I practiced working with forks, branches, commits, merges, and pull requests.
+
+### My impressions
+
+I found Git and GitHub useful for teamwork and version control. Although some commands were confusing at first, practicing them helped me understand how developers collaborate on projects.
